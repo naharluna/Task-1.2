@@ -10,3 +10,6 @@ The gallery includes hover effects, responsive design, and modern CSS techniques
 🔗 Live Site:
 [Live](https://bboxproject.netlify.app/)
 
+##  Screenshot
+
+![Project Screenshot](./grid.png)
